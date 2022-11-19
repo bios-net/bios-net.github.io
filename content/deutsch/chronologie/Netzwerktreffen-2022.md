@@ -1,5 +1,5 @@
 ---
-title: "Netzwerktreffen 2022 - worlding bodies, situating technologies geography meets feminist STS"
+title: "Netzwerktreffen 2022 - /worlding bodies, situating technologies/ geography meets feminist STS"
 date: 2022-04-3T11:30:03+00:00
 aliases: ["/Netzwerktreffen-2022"]
 tags: ["2022", "Burgdorf"]
