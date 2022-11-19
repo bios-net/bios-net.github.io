@@ -28,6 +28,19 @@
                 href="http://bios-net.github.io/tags/2023/"
                 />
   </url><url>
+    <loc>http://bios-net.github.io/categories/about/</loc>
+    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/categories/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/categories/about/"
+                />
+  </url><url>
     <loc>http://bios-net.github.io/</loc>
     <lastmod>2022-11-18T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -78,19 +91,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://bios-net.github.io/about/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/categories/info/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/categories/info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/categories/info/"
                 />
   </url><url>
     <loc>http://bios-net.github.io/tags/rauenthal/</loc>
