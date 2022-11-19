@@ -2,7 +2,7 @@
 title: "Research Network Bios - technologies - health/well-being"
 date: 2022-11-18T11:30:03+00:00
 # weight: 1
-categories: ["Info"]
+categories: ["About"]
 author: ["Henning", "Iris"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
