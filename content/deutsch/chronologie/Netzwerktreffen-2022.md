@@ -33,8 +33,8 @@ cover:
 
 
 
-Treffen: 01. Juni - 03. Juni 2022, [Schloss Burgdorf](https://schloss-burgdorf.ch/en/) in Switzerland
-Organisation: Carolin Schurr,  Iris Dzudzek, Susanne Hübl
+- Datum: 01. Juni - 03. Juni 2022, [Schloss Burgdorf](https://schloss-burgdorf.ch/en/) in Switzerland
+- Team: Carolin Schurr,  Iris Dzudzek, Susanne Hübl
 
 ![Treffen in Burgdorf](/bilder/2022-bios-bd.jpeg)
 
