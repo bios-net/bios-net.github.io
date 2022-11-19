@@ -37,16 +37,20 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowBreadCrumbs: true
+  
+  editPost:
+    URL: "mailto://mail@example.com?subject=Suggesting changes for "
+    Text: "Ergänzung vorschlagen" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
   hidemeta: false

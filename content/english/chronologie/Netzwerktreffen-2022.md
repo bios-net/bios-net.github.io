@@ -28,7 +28,7 @@ cover:
     alt: "Treffen in Burgdorf" # alt text
     caption: "Teilnehmer:innen des Netzwerks im Plenarsaal" # display caption under cover
     relative: true # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
 - Date: 01. Juni - 03. Juni 2022, [Schloss Burgdorf](https://schloss-burgdorf.ch/en/) in Switzerland
