@@ -40,7 +40,7 @@ In den vergangenen Jahren sind zahlreiche sehr interessante Arbeiten entstanden,
 Zu nennen sind hier die Forschung von Heidi Kaspar zu Medizintourismus und globalen Gesundheitsmärkten. Die Auseinandersetzung von Karin Schwiters und Anke Strüver zu transnationalen care Märkten. Caro Schurrs Projekt zu internationalen Leihmütter-Märkten. Anke Strüvers Reflexionen zu Körpern und Fitness im Neoliberalismus. Henning Füller und Jonathan Everts Arbeiten über die biopolitische Dimension von Pandemien im Spannungsfeld von Risiko und Sicherheit. Mathias Lahr-Kurtens Auseinandersetzung mit Praktiken auf Frühgeborenen-Stationen, Klaus Geiselharts Reflexionen über das Verhältnis von modernen Ärzten und spirituellen Heilern. Annika Zeddels Überlegungen zu salutogenetischen Gesundheitskonzepten. Iris Dzudzeks Projekt über das Reisen alternativer Heilpraktiken ...
 
 
-## Program
+## Programm
 
 ### Block I: Zukunft und Emergenz (Meike Wolf und Henning Füller)
 

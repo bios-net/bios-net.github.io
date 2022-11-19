@@ -42,8 +42,8 @@ Zu nennen sind hier die Forschung von Heidi Kaspar zu Medizintourismus und globa
 
 ## Program
 
-### Block I: Zukunft und Emergenz (Meike Wolf und Henning Füller)
+### Block I: Future and Emergence (Meike Wolf und Henning Füller)
 
-### Block II Zirkulation und Regulation (Judith Miggelbrink und Iris Dzudzek)
+### Block II: Circulation and Regulation (Judith Miggelbrink und Iris Dzudzek)
 
-### Inpulsreferate 
+### Impulse talks 
