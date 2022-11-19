@@ -16,6 +16,7 @@
                 />
   </url><url>
     <loc>http://bios-net.github.io/chronologie/netzwerktreffen-2022/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -157,20 +158,8 @@
                 href="http://bios-net.github.io/categories/treffen/"
                 />
   </url><url>
-    <loc>http://bios-net.github.io/tags/2016/</loc>
-    <lastmod>2016-06-04T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/tags/2016/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/tags/2016/"
-                />
-  </url><url>
     <loc>http://bios-net.github.io/tags/2022/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -183,6 +172,7 @@
                 />
   </url><url>
     <loc>http://bios-net.github.io/tags/burgdorf/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -192,6 +182,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://bios-net.github.io/tags/burgdorf/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/tags/2016/</loc>
+    <lastmod>2016-06-04T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/2016/"
                 />
   </url><url>
     <loc>http://bios-net.github.io/tags/frankfurt/m/</loc>

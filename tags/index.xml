@@ -28,19 +28,9 @@
     </item>
     
     <item>
-      <title>2016</title>
-      <link>http://bios-net.github.io/tags/2016/</link>
-      <pubDate>Sat, 04 Jun 2016 11:30:03 +0000</pubDate>
-      
-      <guid>http://bios-net.github.io/tags/2016/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
       <title>2022</title>
       <link>http://bios-net.github.io/tags/2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Apr 2022 11:30:03 +0000</pubDate>
       
       <guid>http://bios-net.github.io/tags/2022/</guid>
       <description></description>
@@ -50,9 +40,19 @@
     <item>
       <title>Burgdorf</title>
       <link>http://bios-net.github.io/tags/burgdorf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Apr 2022 11:30:03 +0000</pubDate>
       
       <guid>http://bios-net.github.io/tags/burgdorf/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>http://bios-net.github.io/tags/2016/</link>
+      <pubDate>Sat, 04 Jun 2016 11:30:03 +0000</pubDate>
+      
+      <guid>http://bios-net.github.io/tags/2016/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
