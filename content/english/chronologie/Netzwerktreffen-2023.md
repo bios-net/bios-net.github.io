@@ -5,7 +5,7 @@ weight: 1
 aliases: ["/Netzwerktreffen-2023"]
 tags: ["2023", "Rauenthal"]
 categories: ["Treffen"]
-author: "Henning"
+author: ["Henning"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
