@@ -170,5 +170,65 @@
                 hreflang="en"
                 href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2022/"
                 />
+  </url><url>
+    <loc>http://bios-net.github.io/en/tags/2016/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/2016/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/tags/mindmap/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/mindmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/mindmap/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/posts/selbstverst%C3%A4ndigung-2016/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/posts/selbstverst%C3%A4ndigung-2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/posts/selbstverst%C3%A4ndigung-2016/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/categories/work/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/categories/work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/categories/work/"
+                />
   </url>
 </urlset>
