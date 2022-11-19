@@ -25,18 +25,16 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     image: "/bilder/2022-bios-bd.jpeg" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    alt: "Treffen in Burgdorf" # alt text
+    caption: "Teilnehmer:innen des Netzwerks im Kaminzimmer Schloss Burdgdorf" # display caption under cover
+    relative: true # when using page bundles set this to true
+    hidden: false # only hide on current single page
 ---
-
 
 
 - Datum: 01. Juni - 03. Juni 2022, [Schloss Burgdorf](https://schloss-burgdorf.ch/en/) in Switzerland
 - Team: Carolin Schurr,  Iris Dzudzek, Susanne Hübl
 
-![Treffen in Burgdorf](/bilder/2022-bios-bd.jpeg)
 
 All sorts of technologies – old and new, analog and digital, medical and economic, big and small, quotidian and extraordinary etc. – are changing and challenging the constitution and limits of our body. The current pandemic once more shows how sick and healthy bodies arise in ecological and social relationality. They emerge from interscalar entanglements ranging from the microscopic scale of viruses and bacteria to global health politics. Un/healthy bodies are unevenly distributed across the globe with the pandemic showing the uneven intersec- tional geography of access to medical technologies and health infrastructures – not only a global but also national and local scale.
 
@@ -48,7 +46,7 @@ All sorts of technologies – old and new, analog and digital, medical and econo
 - Bodies as/in space – an interdisciplinary panel discussion: Conceptualising space (Judith Miggelbrink) | Bodies as/in space (Carolin Schurr) | Worlding health (Iris Dzudzek)
 
 ### Workshops
-- Workshop A: Global health - Henning Füller
+- Workshop A: Global health (Henning Füller)
 - Workhshop B: Obstetric violence (Roberto Castro, in Spanish)
 - Workshopo C: Body and Knowledge, Disability and Science (Heidi Kaspar)
 - Workshop D: Reproductive Justice - Julieta Chaparro-Buitrage & Yolinliztli Pérez-Hernández
@@ -61,4 +59,4 @@ All sorts of technologies – old and new, analog and digital, medical and econo
 - Science communication: Bringing feminist technoscience intopolitics
 (Laura Perler, Carolin Schurr and Sara Lafuente Funes)
 - Experimenting with bodily methods (Susanne Hübl)
-- Activist and creative research: Academia, activism and art (Ir
+- Activist and creative research: Academia, activism and art (Iris Dzudzek)

@@ -26,7 +26,7 @@ UseHugoToc: false
 cover:
     image: "/bilder/2022-bios-bd.jpeg" # image path/url
     alt: "Treffen in Burgdorf" # alt text
-    caption: "Teilnehmer:innen des Netzwerks im Plenarsaal" # display caption under cover
+    caption: "Meeting participants gathering in the hall of Schloss Burdgdorf" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
@@ -34,7 +34,6 @@ cover:
 - Date: 01. Juni - 03. Juni 2022, [Schloss Burgdorf](https://schloss-burgdorf.ch/en/) in Switzerland
 - Team: Carolin Schurr, Iris Dzudzek, Susanne Hübl
 
-![Meeting in Burgdorf](/bilder/2022-bios-bd.jpeg)
 
 All sorts of technologies – old and new, analog and digital, medical and economic, big and small, quotidian and extraordinary etc. – are changing and challenging the constitution and limits of our body. The current pandemic once more shows how sick and healthy bodies arise in ecological and social relationality. They emerge from interscalar entanglements ranging from the microscopic scale of viruses and bacteria to global health politics. Un/healthy bodies are unevenly distributed across the globe with the pandemic showing the uneven intersec- tional geography of access to medical technologies and health infrastructures – not only a global but also national and local scale.
 
@@ -46,7 +45,7 @@ All sorts of technologies – old and new, analog and digital, medical and econo
 - Bodies as/in space – an interdisciplinary panel discussion: Conceptualising space (Judith Miggelbrink) | Bodies as/in space (Carolin Schurr) | Worlding health (Iris Dzudzek)
 
 ### Workshops
-- Workshop A: Global health - Henning Füller
+- Workshop A: Global health (Henning Füller)
 - Workhshop B: Obstetric violence (Roberto Castro, in Spanish)
 - Workshopo C: Body and Knowledge, Disability and Science (Heidi Kaspar)
 - Workshop D: Reproductive Justice - Julieta Chaparro-Buitrage & Yolinliztli Pérez-Hernández

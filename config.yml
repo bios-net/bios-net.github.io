@@ -2,7 +2,7 @@ baseURL: http://bios-net.github.io
 languageCode: de-DE
 title: BIOS Netzwerk
 paginate: 5
-theme: "PaperMod"
+theme: "PaperModX"
 
 defaultContentLanguage: de
 languages:
@@ -37,7 +37,7 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowBreadCrumbs: true
-  
+
   editPost:
     URL: "mailto://mail@example.com?subject=Suggesting changes for "
     Text: "Ergänzung vorschlagen" # edit text
