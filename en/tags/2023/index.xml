@@ -4,10 +4,6 @@
     <title>2023 on Research Network BIOS</title>
     <link>http://bios-net.github.io/en/tags/2023/</link>
     <description>Recent content in 2023 on Research Network BIOS</description>
-    <image>
-      <url>http://bios-net.github.io/bilder</url>
-      <link>http://bios-net.github.io/bilder</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 18 Nov 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://bios-net.github.io/en/tags/2023/index.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +14,8 @@
       
       <guid>http://bios-net.github.io/en/chronologie/netzwerktreffen-2023/</guid>
       <description>Announcement Next Meeting Network BIOS 2023</description>
+      <content:encoded><![CDATA[<p>We will get together June 14 - June 16 2023 in <a href="https://www.kuta-rauenthal.de">KuTa Rauenthal</a> (near Wiesbaden).</p>
+]]></content:encoded>
     </item>
     
   </channel>

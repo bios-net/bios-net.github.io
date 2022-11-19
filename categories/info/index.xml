@@ -4,10 +4,6 @@
     <title>Info on BIOS Netzwerk</title>
     <link>http://bios-net.github.io/categories/info/</link>
     <description>Recent content in Info on BIOS Netzwerk</description>
-    <image>
-      <url>http://bios-net.github.io/bilder</url>
-      <link>http://bios-net.github.io/bilder</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 18 Nov 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://bios-net.github.io/categories/info/index.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +14,14 @@
       
       <guid>http://bios-net.github.io/about/</guid>
       <description>Selbstbeschreibung</description>
+      <content:encoded><![CDATA[<p>Ziel des Netzwerkes ist es, gegenwärtige Formen der Neuverhandlung des Lebens zu erforschen. Es stellt ein Forum dar, das den Austausch über empirische Arbeiten mit der Vertiefung theoretischer Auseinandersetzungen mit dem Leben verbindet. Es bietet eine geschützten Raum für den Austausch mit Fachkolleg_innen, die Vertiefung von Debatten, Ideenfindung sowie gegenseitige Unterstützung in der Forschung. Darüber hinaus dient es als offene Plattform für gemeinsame Aktivitäten.</p>
+<p>Im Netzwerk arbeiten Geograph_innen, Anthropolog_innen und Ethnolog_innen aus dem deutschsprachigen Raum interdisziplinär zusammen. Es schließt eine Lücke, in dem es erstmals eine Vernetzung im thematischen Spannungsfeld zwischen &ldquo;Bios – Technologien – Gesundheit&rdquo; zwischen Geographie und Anthropologie/Ethnologie schafft.</p>
+<h2 id="kontakt">Kontakt</h2>
+<p>Wir freuen uns über Interesse und ggf. Teilnahme an dem Netzwerk</p>
+<p>Nehmen Sie gerne Kontakt auf:</p>
+<p>Dr. Henning Füller <a href="mailto:henning.fueller@geo.hu-berlin.de">henning.fueller@geo.hu-berlin.de</a></p>
+<p>Prof. Dr. Iris Dzudzek <a href="mailto:iris.dzudzek@uni-muenster.de">iris.dzudzek@uni-muenster.de</a></p>
+]]></content:encoded>
     </item>
     
   </channel>
