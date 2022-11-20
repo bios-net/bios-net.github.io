@@ -48,6 +48,26 @@
     </item>
     
     <item>
+      <title>2021</title>
+      <link>http://bios-net.github.io/tags/2021/</link>
+      <pubDate>Sat, 03 Apr 2021 11:30:03 +0000</pubDate>
+      
+      <guid>http://bios-net.github.io/tags/2021/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Zoom</title>
+      <link>http://bios-net.github.io/tags/zoom/</link>
+      <pubDate>Sat, 03 Apr 2021 11:30:03 +0000</pubDate>
+      
+      <guid>http://bios-net.github.io/tags/zoom/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>2018</title>
       <link>http://bios-net.github.io/tags/2018/</link>
       <pubDate>Mon, 04 Jun 2018 11:30:03 +0000</pubDate>
@@ -70,7 +90,7 @@
     <item>
       <title>2016</title>
       <link>http://bios-net.github.io/tags/2016/</link>
-      <pubDate>Sat, 04 Jun 2016 11:30:03 +0000</pubDate>
+      <pubDate>Thu, 03 Nov 2016 11:30:03 +0000</pubDate>
       
       <guid>http://bios-net.github.io/tags/2016/</guid>
       <description></description>
@@ -80,9 +100,19 @@
     <item>
       <title>Article</title>
       <link>http://bios-net.github.io/tags/article/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Nov 2016 11:30:03 +0000</pubDate>
       
       <guid>http://bios-net.github.io/tags/article/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Mindmap</title>
+      <link>http://bios-net.github.io/tags/mindmap/</link>
+      <pubDate>Sun, 03 Apr 2016 11:30:03 +0000</pubDate>
+      
+      <guid>http://bios-net.github.io/tags/mindmap/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -93,16 +123,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://bios-net.github.io/tags/frankfurt/m/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Mindmap</title>
-      <link>http://bios-net.github.io/tags/mindmap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://bios-net.github.io/tags/mindmap/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

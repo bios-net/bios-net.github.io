@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2021 on Research Network BIOS</title>
+    <link>http://bios-net.github.io/en/tags/2021/</link>
+    <description>Recent content in 2021 on Research Network BIOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 03 Apr 2021 11:30:03 +0000</lastBuildDate><atom:link href="http://bios-net.github.io/en/tags/2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network meeting 2021 - BIOS afternoon</title>
+      <link>http://bios-net.github.io/en/chronologie/netzwerktreffen-2021/</link>
+      <pubDate>Sat, 03 Apr 2021 11:30:03 +0000</pubDate>
+      
+      <guid>http://bios-net.github.io/en/chronologie/netzwerktreffen-2021/</guid>
+      <description>Network meeting 2021 - BIOS Nachmittag via Zoom</description>
+      <content:encoded><![CDATA[<ul>
+<li>Date: 12. November via Zoom</li>
+<li>Team: Iris Dzudzek, Henning Füller, Carlin Schurr</li>
+</ul>
+<p>Following up with previous meetings, this afternoon provided the opportunity to discuss current state of work and thoughts:</p>
+<ul>
+<li>Caro, Laura and Nora reflect on their project „Reproductive Geopolitics“ .</li>
+<li>Henning and Iris würden discuss thoughts regarding the change of space-based health politics and policies in the city post-COVID.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

@@ -132,6 +132,19 @@
                 href="http://bios-net.github.io/en/categories/treffen/"
                 />
   </url><url>
+    <loc>http://bios-net.github.io/en/tags/2016/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/2016/"
+                />
+  </url><url>
     <loc>http://bios-net.github.io/en/tags/2022/</loc>
     <lastmod>2022-04-03T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -158,6 +171,32 @@
                 href="http://bios-net.github.io/en/tags/burgdorf/"
                 />
   </url><url>
+    <loc>http://bios-net.github.io/en/tags/mindmap/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/mindmap/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/mindmap/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/posts/selbstverst%C3%A4ndigung-2016/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/posts/selbstverst%C3%A4ndigung-2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/posts/selbstverst%C3%A4ndigung-2016/"
+                />
+  </url><url>
     <loc>http://bios-net.github.io/en/chronologie/netzwerktreffen-2022/</loc>
     <lastmod>2022-04-03T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -169,6 +208,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2022/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/posts/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/categories/work/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/categories/work/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/categories/work/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/tags/2021/</loc>
+    <lastmod>2021-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/2021/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/chronologie/netzwerktreffen-2021/</loc>
+    <lastmod>2021-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/chronologie/netzwerktreffen-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2021/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/tags/zoom/</loc>
+    <lastmod>2021-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/zoom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/zoom/"
                 />
   </url><url>
     <loc>http://bios-net.github.io/en/tags/2018/</loc>
@@ -208,19 +312,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2018/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/tags/2016/</loc>
-    <lastmod>2016-06-04T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/tags/2016/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/tags/2016/"
                 />
   </url><url>
     <loc>http://bios-net.github.io/en/chronologie/netzwerktreffen-2016/</loc>
@@ -270,54 +361,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://bios-net.github.io/en/tags/frankfurt/m/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/tags/mindmap/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/tags/mindmap/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/tags/mindmap/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/posts/selbstverst%C3%A4ndigung-2016/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/posts/selbstverst%C3%A4ndigung-2016/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/posts/selbstverst%C3%A4ndigung-2016/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/posts/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/categories/work/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/categories/work/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/categories/work/"
                 />
   </url>
 </urlset>
