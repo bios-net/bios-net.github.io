@@ -1,8 +1,8 @@
 ---
-title: "Beitrag Feministische Georundmail 2016"
+title: "Article for Feministische Georundmail 2016"
 date: 2022-04-3T11:30:03+00:00
 aliases: ["/beitrag-fem-geo-2016"]
-tags: ["2016", "Mindmap"]
+tags: ["2016", "Article"]
 categories: ["Work"]
 author: ["Henning", "Iris"]
 # author: ["Me", "You"] # multiple authors
