@@ -25,12 +25,16 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    image: "/bilder/2023-rauenthal.jpeg" # image path/url
+    alt: "Rheingau near Rauenthal" # alt text
+    caption: "view while having a walk near Rauenthal" # display caption under cover
+    relative: true # when using page bundles set this to true
+    hidden: false # only hide on current single page
 ---
 
 
 We will get together June 14 - June 16 2023 in [KuTa Rauenthal](https://www.kuta-rauenthal.de) (near Wiesbaden).
+
+Details and futher info soon. 
+
+Please get in contact if you plan to participate: henning.fueller@geo.hu-berlin.de or iris.dzudzek@uni-muenster.de

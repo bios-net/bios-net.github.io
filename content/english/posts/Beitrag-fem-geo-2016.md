@@ -1,6 +1,6 @@
 ---
 title: "Article for Feministische Georundmail 2016"
-date: 2022-04-3T11:30:03+00:00
+date: 2016-12-03T11:30:03+00:00
 aliases: ["/beitrag-fem-geo-2016"]
 tags: ["2016", "Article"]
 categories: ["Work"]

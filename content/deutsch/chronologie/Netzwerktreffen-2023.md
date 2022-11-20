@@ -25,13 +25,17 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    image: "/bilder/2023-rauenthal.jpeg" # image path/url
+    alt: "Rheingau bei Rauenthal" # alt text
+    caption: "Aussicht während eines Spaziergangs bei Rauenthal" # display caption under cover
+    relative: true # when using page bundles set this to true
+    hidden: false # only hide on current single page
 ---
 
-Herzliche Einladung zum BIOS Netzwerktreffen 2023
+Herzliche Einladung zum BIOS Netzwerktreffen 2023!
 
 Das Treffen findet vom 14.06. bis 16.06. im [KuTa Rauenthal](https://www.kuta-rauenthal.de) (bei Wiesbaden) statt.
+
+Details und weitere Infos folgen in Kürze hier.
+
+Nehmt bei Interesse genre Kontakt auf: henning.fueller@geo.hu-berlin.de or iris.dzudzek@uni-muenster.de
