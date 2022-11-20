@@ -1,7 +1,6 @@
 ---
 title: "Netzwerktreffen 2023"
 date: 2022-11-18T11:30:03+00:00
-weight: 1
 aliases: ["/Netzwerktreffen-2023"]
 tags: ["2023", "Rauenthal"]
 categories: ["Treffen"]
