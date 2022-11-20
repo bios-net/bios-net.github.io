@@ -11,7 +11,7 @@ TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "Program of the Meeting in Leipzig 2018"
+description: "Program of the meeting in Leipzig 2018"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
