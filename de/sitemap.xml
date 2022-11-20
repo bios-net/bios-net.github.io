@@ -2,45 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bios-net.github.io/chronologie/netzwerktreffen-2023/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2023/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/chronologie/netzwerktreffen-2023/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/chronologie/netzwerktreffen-2022/</loc>
-    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2022/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/chronologie/netzwerktreffen-2022/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/chronologie/netzwerktreffen-2016/</loc>
-    <lastmod>2016-06-04T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2016/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/chronologie/netzwerktreffen-2016/"
-                />
-  </url><url>
     <loc>http://bios-net.github.io/tags/2023/</loc>
     <lastmod>2022-11-18T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -119,6 +80,19 @@
                 href="http://bios-net.github.io/about/"
                 />
   </url><url>
+    <loc>http://bios-net.github.io/chronologie/netzwerktreffen-2023/</loc>
+    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/chronologie/netzwerktreffen-2023/"
+                />
+  </url><url>
     <loc>http://bios-net.github.io/tags/rauenthal/</loc>
     <lastmod>2022-11-18T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -184,6 +158,19 @@
                 href="http://bios-net.github.io/tags/burgdorf/"
                 />
   </url><url>
+    <loc>http://bios-net.github.io/chronologie/netzwerktreffen-2022/</loc>
+    <lastmod>2022-04-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/chronologie/netzwerktreffen-2022/"
+                />
+  </url><url>
     <loc>http://bios-net.github.io/tags/2016/</loc>
     <lastmod>2016-06-04T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -195,6 +182,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://bios-net.github.io/tags/2016/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/chronologie/netzwerktreffen-2016/</loc>
+    <lastmod>2016-06-04T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/chronologie/netzwerktreffen-2016/"
                 />
   </url><url>
     <loc>http://bios-net.github.io/tags/frankfurt/m/</loc>
