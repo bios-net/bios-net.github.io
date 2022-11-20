@@ -1,6 +1,6 @@
 ---
 title: "Mindmap Result of Discussion 2016"
-date: 2022-04-3T11:30:03+00:00
+date: 2022-04-03T11:30:03+00:00
 aliases: ["/Mindmap-2016"]
 tags: ["2016", "Mindmap"]
 categories: ["Work"]

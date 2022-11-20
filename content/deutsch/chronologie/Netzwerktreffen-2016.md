@@ -1,5 +1,5 @@
 ---
-title: "Network meeting 2016 - Kick-off Meeting"
+title: "Netzwerktreffen 2016 - Kick-off Meeting"
 date: 2016-06-04T11:30:03+00:00
 aliases: ["/network-meeting-2016"]
 tags: ["2016", "Frankfurt/M"]
