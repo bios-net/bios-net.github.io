@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Leipzig on BIOS Netzwerk</title>
+    <link>http://bios-net.github.io/tags/leipzig/</link>
+    <description>Recent content in Leipzig on BIOS Netzwerk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 04 Jun 2018 11:30:03 +0000</lastBuildDate><atom:link href="http://bios-net.github.io/tags/leipzig/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netzwerktreffen 2018 - Bioökonomie, Gouvernementale Praktiken und die Produktion von Räumen</title>
+      <link>http://bios-net.github.io/chronologie/netzwerktreffen-2018/</link>
+      <pubDate>Mon, 04 Jun 2018 11:30:03 +0000</pubDate>
+      
+      <guid>http://bios-net.github.io/chronologie/netzwerktreffen-2018/</guid>
+      <description>Program of the Meeting in Leipzig 2018</description>
+      <content:encoded><![CDATA[<ul>
+<li>Date: 18.01. - 19.01. 2018, Geography Department, University of Leipzig</li>
+<li>Team: Judith Miggelbrink, Tom Schwarzenberg, Frank Meyer</li>
+</ul>
+<p>In Kooperation with SFB 1199 <em>Processes of Saptialization under the Global Condition</em></p>
+<p><a href="https://bios-net.github.io/dokumente/BIOS_Leipzig_Programm-2018.pdf">Program Bios 2018 Leipzig (pdf)</a></p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

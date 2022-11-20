@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Article on Research Network BIOS</title>
+    <link>http://bios-net.github.io/en/tags/article/</link>
+    <description>Recent content in Article on Research Network BIOS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="http://bios-net.github.io/en/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article for Feministische Georundmail 2016</title>
+      <link>http://bios-net.github.io/en/posts/beitrag-fem-geo-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bios-net.github.io/en/posts/beitrag-fem-geo-2016/</guid>
+      <description>Reflection on themes and aims for the Feministische Georundmail</description>
+      <content:encoded><![CDATA[<p>Dzudzek, Iris und Henning Füller. 2016. <a href="https://bios-net.github.io/dokumente/Dzudzek16Forschun_article.pdf">Forschungsnetzwerk Bios - Technologien - Gesundheit</a>. <em>Feministische Georundmail</em> 69: 21&ndash;24.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
