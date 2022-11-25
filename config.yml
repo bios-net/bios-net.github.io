@@ -126,6 +126,10 @@ menu:
       name: Arbeiten
       url: /categories/work
       weight: 30
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 40
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
