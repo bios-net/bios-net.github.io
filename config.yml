@@ -34,7 +34,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["/bilder"]
   DateFormat: "02. January 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light
   disableThemeToggle: false
   ShowBreadCrumbs: true
 
@@ -72,6 +72,16 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
+  homeInfoParams:
+      Title: "Forschungsnetzwerk // BIOS, Technologien, Gesundheit"
+      Content: |
+        ## Wer?
+        BIOS ist eine Zusammenschluss von Forschenden aus unterschiedlichen Zusammenhängen, die sich mit der Verschränkung von Technologien, Biopolitiken, Ökonomie, Reproduktion und Gesundheit auseinandersetzen. 
+
+        ## Was?
+        Im Kern stehen die jährlichen Treffen, die den Austausch über empirische Arbeiten mit der Vertiefung theoretischer Auseinandersetzungen mit dem Leben verbinden.
+
+        Ausführlicher auch hier: **[About](https://bios-net.github.io/about/)**.
 
   analytics:
     google:
@@ -82,7 +92,7 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
@@ -104,17 +114,17 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Kategorien
-      url: /categories/
+    - identifier: About
+      name: About
+      url: /categories/about
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: Treffen
+      name: Treffen
+      url: /categories/treffen
       weight: 20
-    - identifier: archive
-      name: Chronologie
-      url: /chronologie/
+    - identifier: Arbeiten
+      name: Arbeiten
+      url: /categories/work
       weight: 30
 
 
