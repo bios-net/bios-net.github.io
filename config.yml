@@ -116,7 +116,7 @@ menu:
   main:
     - identifier: About
       name: About
-      url: /categories/about
+      url: /categories/about/about
       weight: 10
     - identifier: Treffen
       name: Treffen
