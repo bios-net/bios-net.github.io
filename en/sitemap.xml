@@ -15,6 +15,32 @@
                 href="http://bios-net.github.io/en/tags/2023/"
                 />
   </url><url>
+    <loc>http://bios-net.github.io/en/categories/about/</loc>
+    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/categories/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/categories/about/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/about/</loc>
+    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/about/"
+                />
+  </url><url>
     <loc>http://bios-net.github.io/en/categories/</loc>
     <lastmod>2022-11-18T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -78,6 +104,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://bios-net.github.io/en/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/about/about/</loc>
+    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/about/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/about/about/"
                 />
   </url><url>
     <loc>http://bios-net.github.io/en/tags/</loc>
