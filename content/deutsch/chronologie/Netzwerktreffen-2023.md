@@ -4,7 +4,7 @@ date: 2022-11-18T11:30:03+00:00
 aliases: ["/Netzwerktreffen-2023"]
 tags: ["2023", "Rauenthal"]
 categories: ["Treffen"]
-author: ["Henning"]
+author: ["Henning", "Iris"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
@@ -37,8 +37,7 @@ Pandemie, Klimawandel und Energiekrise haben deutlich gemacht, Gesundheit, wenn 
 Diese grundsätzliche Hypothese berührt einige Themen, die wir über die letzten Jahre diskutiert haben. Wir würden einen Teil des kommenden BIOS-Treffens daher gerne nutzen, um gemeinsam Verständnisse, Einschätzungen und Beobachtungen zu aktuellen Machtverhältnissen im Kontext einer ‚Sicherstellung von (Über-)Leben‘ und den dabei womöglich veränderten Biopolitiken zusammen zu tragen und alternative Überlebenskünste zu eruieren.
 Welche Machteffekte und Raumstrategien kennzeichnen diese Politiken des Überlebens in kritischen Zeiten? Wie wird die Herausforderung des Umgangs mit bedrohlichen Zukünften jeweils konkret angegangen? Welche technischen Mittel und Verfahren kommen zum Einsatz? Welche Gestaltungsmöglichkeiten werden wahrgenommen und was wird als unveränderlicher Rahmen behauptet? Wie wird hier eine bedrohliche Zukunft mit Aspekten des Menschen als Gattungswesen (Biopolitik) verschränkt? Inwiefern wird im Zuge dieser Debatten Leben selbst aus dem Bereich der Natur (zoon) in den Bereich der Politik übersetzt (bios)? Wie können Leben und Biopolitik emanzipativ gedacht werden, um alternative Zukünfte zu eröffnen? Diese und andere Fragen wollen wir mit Euch gemeinsam diskutieren. 
 
-## Eckdaten BIOS Treffen 2023 (Rauenthal) 
-folgende Eckdaten stehen bereits fest:
+### Eckdaten BIOS Treffen 2023 (Rauenthal) 
 
 **Termin:** 14.06.2023 ab 12 Uhr – 16.06.2023 um 14 Uhr
 
@@ -51,5 +50,5 @@ Reisekosten werden für alle ohne eigene Finanzierung in vollem Umfang, für all
 
 Das Netzwerk „Bios – Technologien – Gesundheit“ hat sich 2016 gegründet, um Fragen der Neuverhandlung von Leben und Gesundheit im Zuge technologischen und gesellschaftlichen Wandels zu diskutieren. Es ist interdisziplinär ausgerichtet und bringt über 30 Wissenschaftler\*innen aus den Fächern Humangeographie, Anthropologie und Ethnologie in jährlich stattfindenden Workshops in Dialog (https://bios-net.github.io/). 
 
-Anmeldungen mit und ohne eigenen Beitrag werden bis zum 15.02.2023 an Iris Dzudzek und Henning Füller erbeten (iris.dzudzek@uni-muenster.de; henning.fueller@geo.hu-berlin.de). Da die Plätze begrenzt sind, bitte frühzeitig melden.
+Anmeldungen mit und ohne eigenen Beitrag werden bis zum **15.02.2023** an Iris Dzudzek und Henning Füller erbeten (iris.dzudzek@uni-muenster.de; henning.fueller@geo.hu-berlin.de). Da die Plätze begrenzt sind, bitte frühzeitig melden.
 
