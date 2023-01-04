@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bios-net.github.io/en/tags/2023/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
+    <lastmod>2023-01-03T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -13,6 +13,97 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://bios-net.github.io/en/tags/2023/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/categories/</loc>
+    <lastmod>2023-01-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/chronologie/</loc>
+    <lastmod>2023-01-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/chronologie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/chronologie/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/chronologie/netzwerktreffen-2023/</loc>
+    <lastmod>2023-01-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/chronologie/netzwerktreffen-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2023/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/tags/rauenthal/</loc>
+    <lastmod>2023-01-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/rauenthal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/rauenthal/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/</loc>
+    <lastmod>2023-01-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/tags/</loc>
+    <lastmod>2023-01-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>http://bios-net.github.io/en/categories/treffen/</loc>
+    <lastmod>2023-01-03T11:30:03+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://bios-net.github.io/categories/treffen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://bios-net.github.io/en/categories/treffen/"
                 />
   </url><url>
     <loc>http://bios-net.github.io/en/categories/about/</loc>
@@ -41,71 +132,6 @@
                 href="http://bios-net.github.io/en/about/"
                 />
   </url><url>
-    <loc>http://bios-net.github.io/en/categories/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/chronologie/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/chronologie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/chronologie/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/chronologie/netzwerktreffen-2023/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/chronologie/netzwerktreffen-2023/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/chronologie/netzwerktreffen-2023/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/tags/rauenthal/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/tags/rauenthal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/tags/rauenthal/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/"
-                />
-  </url><url>
     <loc>http://bios-net.github.io/en/about/about/</loc>
     <lastmod>2022-11-18T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -117,32 +143,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://bios-net.github.io/en/about/about/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/tags/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>http://bios-net.github.io/en/categories/treffen/</loc>
-    <lastmod>2022-11-18T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://bios-net.github.io/categories/treffen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://bios-net.github.io/en/categories/treffen/"
                 />
   </url><url>
     <loc>http://bios-net.github.io/en/tags/2016/</loc>
