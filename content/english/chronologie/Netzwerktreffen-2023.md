@@ -6,8 +6,8 @@ tags: ["2023", "Rauenthal"]
 categories: ["Treffen"]
 author: ["Henning", "Iris"]
 # author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: true
+showToc: false
+TocOpen: false
 draft: false
 hidemeta: false
 comments: false
