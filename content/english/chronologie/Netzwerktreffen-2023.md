@@ -36,7 +36,7 @@ Pandemie, Klimawandel und Energiekrise haben deutlich gemacht, Gesundheit, wenn 
 
 Diese grundsätzliche Hypothese berührt einige Themen, die wir über die letzten Jahre diskutiert haben. Wir würden einen Teil des kommenden BIOS-Treffens daher gerne nutzen, um gemeinsam Verständnisse, Einschätzungen und Beobachtungen zu aktuellen Machtverhältnissen im Kontext einer ‚Sicherstellung von (Über-)Leben‘ und den dabei womöglich veränderten Biopolitiken zusammen zu tragen und alternative Überlebenskünste zu eruieren.
 
-- elche Machteffekte und Raumstrategien kennzeichnen diese Politiken des Überlebens in kritischen Zeiten? 
+- Welche Machteffekte und Raumstrategien kennzeichnen diese Politiken des Überlebens in kritischen Zeiten? 
 - Wie wird die Herausforderung des Umgangs mit bedrohlichen Zukünften jeweils konkret angegangen? 
 - Welche technischen Mittel und Verfahren kommen zum Einsatz? 
 - Welche Gestaltungsmöglichkeiten werden wahrgenommen und was wird als unveränderlicher Rahmen behauptet? 
@@ -59,4 +59,4 @@ Reisekosten werden für alle ohne eigene Finanzierung in vollem Umfang, für all
 
 Das Netzwerk „Bios – Technologien – Gesundheit“ hat sich 2016 gegründet, um Fragen der Neuverhandlung von Leben und Gesundheit im Zuge technologischen und gesellschaftlichen Wandels zu diskutieren. Es ist interdisziplinär ausgerichtet und bringt über 30 Wissenschaftler\*innen aus den Fächern Humangeographie, Anthropologie und Ethnologie in jährlich stattfindenden Workshops in Dialog (https://bios-net.github.io/). 
 
-Anmeldungen mit und ohne eigenen Beitrag werden bis zum **15.02.2023** an Iris Dzudzek und Henning Füller erbeten (iris.dzudzek@uni-muenster.de; henning.fueller@geo.hu-berlin.de). Da die Plätze begrenzt sind, bitte frühzeitig melden.
+Anmeldungen mit und ohne eigenen Beitrag werden bis zum **01.04.2023** an Iris Dzudzek und Henning Füller erbeten (iris.dzudzek@uni-muenster.de; henning.fueller@geo.hu-berlin.de). Da die Plätze begrenzt sind, bitte frühzeitig melden.
