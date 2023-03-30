@@ -1,8 +1,8 @@
 ---
 title: "Kommendes Netzwerktreffen"
 date: 2023-01-03T11:30:03+00:00
-aliases: ["/Netzwerktreffen-2024"]
-tags: ["2023", ""]
+aliases: ["/Netzwerktreffen-2023"]
+tags: ["2023"]
 categories: ["Treffen"]
 author: ["Henning", "Iris"]
 # author: ["Me", "You"] # multiple authors
